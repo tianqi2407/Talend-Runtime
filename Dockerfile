@@ -1,4 +1,4 @@
-FROM openjdk:latest
+FROM openjdk:8-jdk
 
 LABEL maintainer weitianqiccc3@gmail.com
 
